@@ -1,1 +1,1 @@
-# 8th_sem_Senti_analysis
+# 8th_sem_Sentiment_analysis
